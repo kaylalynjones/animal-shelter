@@ -1,0 +1,23 @@
+{
+  "name": "animal-shelter",
+  "version": "0.0.0",
+  "description": "object oriented animal shelter",
+  "main": "app/app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaylalynjones/animal-shelter.git"
+  },
+  "author": "Kayla Jones",
+  "license": "MIT",
+  "homepage": "https://github.com/kaylalynjones/animal-shelter",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "sync-prompt": "^0.4.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "jshint-stylish": "^0.4.0"
+  }
+}
